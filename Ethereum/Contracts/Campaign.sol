@@ -34,6 +34,7 @@ contract Campaign {
         require(msg.sender == manager);
         _;
     }
+    //hello
     constructor(uint minimum, address creator) public{
         manager = creator;
         minimumContribution = minimum;
