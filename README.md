@@ -25,7 +25,7 @@ npm run dev
 
 navigate to localhost:3000
 ```
-Please make sure you have Metamask installed to view this application. 
+Please make sure you have Metamask chrome extension installed to view this application. 
 Within this application you can: 
 
 1. create a new "campaign" which will actually deploy a new instance of the campaign contract on the Ethereum Test network
